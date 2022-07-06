@@ -16,6 +16,16 @@ section{
     color: white;
 }
 
+.top-text{
+    text-align: center;
+    padding: 100px 300px;
+}
+.top-text h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
 .text{
     text-align: center;
     padding: 10px 300px;
@@ -121,6 +131,42 @@ input{
     padding: 50px 20px 20px 20px;
     margin: 0 10px;
 }
+
+#blog1, #blog2{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    
+}
+.text-blog1{
+    width: 40%;
+    margin-right: 100px;
+}
+
+.text-blog2{
+    width: 40%;
+    margin-left: 100px;
+}
+
+.text-blog1 h1, .text-blog2 h1{
+    font-size:45px;
+    font-weight:bold;
+}
+.text-blog1 p, .text-blog2 p{
+    color: #707070;
+}
+
+.img{
+    width: 40%;
+}
+
+.img img{
+    width: 500px;
+    height: 450px;
+}
+
+
 
 .email-background{
     width: 60%;
