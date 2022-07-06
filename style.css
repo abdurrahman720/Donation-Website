@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+section{
+    margin-bottom: 50px;
+}
+
+#top-banner{
+    width: 100%;
+    background-color: antiquewhite;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.text{
+    text-align: center;
+    padding: 100px 300px;
+}
+
+.text h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.donate-btn{
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.donate-today-text{
+    color: #707070;
+}
+
+.amount-cards{
+    width: 100px;
+    height: 70px;
+    background-color: #FAFAFA;
+    border: 1px solid #FAFAFA;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.amount-cards-red{
+    width: 100px;
+    height: 70px;
+    background-color: #FFEEEE;
+    border: 1px solid #ff5959;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+
+.amount{
+    display:flex;
+    justify-content: center;
+    margin-top: -50px;
+}
+
+.amount-text{
+    text-align: center;
+    color: #707070;
+    font-weight: 700;
+}
+
+.text-red{
+    color: #FF5959;
+}
+
+.donation{
+    display: flex;
+    flex-direction: column;
+}
+
+.donate-input{
+    margin: 0 auto;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid gray;
+    height: 50px;
+    width: 500px;
+}
+
+.donate-button{
+    margin: 10px auto;
+}
+
