@@ -34,7 +34,7 @@ section{
     border-radius: 5px;
 }
 
-.donate-today-text{
+.donate-text{
     color: #707070;
 }
 
@@ -93,3 +93,31 @@ input{
     margin: 10px auto;
 }
 
+.plan-cards{
+    display: flex;
+    justify-content: center;
+    margin: 0 40px;
+}
+
+.card1{
+    width: 350px;
+    height: 300px;
+    background-color: #4F9DA61A;
+    padding: 50px 20px 20px 20px;
+    margin: 0 10px;
+}
+
+.card2{
+    width: 350px;
+    height: 300px;
+    background-color: #FF59591A;
+    padding: 50px 20px 20px 20px;
+    margin: 0 10px;
+}
+.card3{
+    width: 350px;
+    height: 300px;
+    background-color: #FFF4D6;
+    padding: 50px 20px 20px 20px;
+    margin: 0 10px;
+}
