@@ -4,7 +4,7 @@ body{
 }
 
 section{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 #top-banner{
@@ -18,7 +18,7 @@ section{
 
 .text{
     text-align: center;
-    padding: 100px 300px;
+    padding: 10px 300px;
 }
 
 .text h1{
@@ -60,7 +60,7 @@ section{
 .amount{
     display:flex;
     justify-content: center;
-    margin-top: -90px;
+    
 }
 
 .amount-text{
@@ -96,7 +96,7 @@ input{
 .plan-cards{
     display: flex;
     justify-content: center;
-    margin: -70px 40px;
+    margin: 20px;
 }
 
 .card1{
@@ -121,3 +121,34 @@ input{
     padding: 50px 20px 20px 20px;
     margin: 0 10px;
 }
+
+.email-background{
+    width: 60%;
+    height: 200px;
+    background-color: #FFF4D6;
+    margin: 20px auto;
+    display:flex;
+    align-items:center;    /*align items property moves content to the center of the height and the justify content moves it to the centre of width  */
+    justify-content:center;
+    
+}
+
+footer{
+    background-color: #0B0D17;
+}
+
+footer h2{
+    color: #FF5959;
+    font-family: cursive;
+}
+
+footer p{
+    color: #FFF4D6;
+}
+
+.footer-text{
+    padding: 20px;
+    text-align: center;
+}
+
+
