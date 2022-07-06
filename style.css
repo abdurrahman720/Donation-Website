@@ -60,7 +60,7 @@ section{
 .amount{
     display:flex;
     justify-content: center;
-    margin-top: -50px;
+    margin-top: -90px;
 }
 
 .amount-text{
@@ -96,7 +96,7 @@ input{
 .plan-cards{
     display: flex;
     justify-content: center;
-    margin: 0 40px;
+    margin: -70px 40px;
 }
 
 .card1{
