@@ -205,7 +205,7 @@ footer p{
     height: 600px;
     background-color: #FAFAFA;
     margin: 0 auto;
-    box-shadow: 8px 8px 16px gray;
+    box-shadow: 15px 15px 20px gray;
 }
 
 .flexible, .feature-imgs{
@@ -228,6 +228,7 @@ footer p{
     text-align: center;
     font-size: 40px;
     font-weight: bold;
+    font-style: italic;
     
 }
 
