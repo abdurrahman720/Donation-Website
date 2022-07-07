@@ -101,7 +101,7 @@ input{
 }
 
 .donate-button{
-    margin: 10px auto;
+    padding: 10px;
     text-align: center;
 }
 
@@ -217,6 +217,7 @@ footer p{
     width: 400px;
     height: 400px;
     transform: skewX(-15deg);
+    margin:20px;
 }
 
 .feature-imgs{
